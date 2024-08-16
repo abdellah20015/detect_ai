@@ -1,0 +1,19 @@
+.custom-shadow {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.result-card {
+    transition: all 0.3s ease;
+}
+
+.result-card:hover {
+    transform: translateY(-5px);
+}
+
+.progress {
+    height: 25px;
+}
+
+.progress-bar {
+    transition: width 0.6s ease;
+}
